@@ -5,7 +5,7 @@ This project is a Todo application with CRUD operations, using the Gazelle frame
 ## How to use
 
 ```sh
-git clone https://github.com/intales/gazelle.git
+git clone https://github.com/allipiopereira/todo_gazelle
 ```
 
 ```sh
